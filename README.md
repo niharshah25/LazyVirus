@@ -40,7 +40,7 @@
   
 <a href="https://github.com/LazyVirus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LazyVirus&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyVirus&theme=buefy&layout=compact" />
+  
 </a>
 
 
